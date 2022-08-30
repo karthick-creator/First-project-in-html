@@ -1,0 +1,29 @@
+h1 {
+    text-align: right;
+    width: 70%;
+    font-weight: 600;
+    color:#41EE07;
+    text-decoration: rgb(213, 15, 15) underline wavy;
+    letter-spacing: 15px;
+    font-size: 50px;
+    font-family: monospace ;
+    text-transform: uppercase;
+}
+h3 {
+    color: rgb(16, 123, 16);
+    font-weight: bold;
+    text-decoration: rgb(233, 63, 11) underline;
+}
+button {
+    color: magenta;
+    background-color: cyan;
+}
+p {
+    text-align: center;
+    color: orange;
+    background:#000 ;
+    line-height: 2;
+}
+a  {
+    text-decoration: none;
+}
